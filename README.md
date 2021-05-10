@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vasiagi
+- 👋 Hi, I’m Viv
 - 👀 I’m interested in sql, python, and data analytics
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on sql, python and data analytics projects
